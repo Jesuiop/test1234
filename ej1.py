@@ -1,6 +1,6 @@
 
 nombre = input ("Introduce tu nombre: ")
-#comentario de 1 linea
+#comentario de conflicto linea
 '''
 comentario
 de 
