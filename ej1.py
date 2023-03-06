@@ -3,7 +3,7 @@ nombre = input ("Introduce tu nombre: ")
 #comentario de conflicto linea
 '''
 comentario
-de 
+de nose
 muchas lineas
 '''
 def hola(nombre_recibido):
